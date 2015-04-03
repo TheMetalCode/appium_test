@@ -1,0 +1,9 @@
+[caps]
+appium-version = "1.3.7"
+platformName = "ios"
+platformVersion = "8.2"
+app = "sample_apps/UICatalog.app.zip"
+deviceName = "iPhone 5s"
+
+[appium_lib]
+require = ["./spec/requires.rb"]
